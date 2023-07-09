@@ -55,16 +55,12 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push the branch to your forked repository.
 5. Submit a pull request to the original repository.
 
-<!-- License -->
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 <!-- Acknowledgements -->
 ## Acknowledgements
-- Special thanks to [Name] for their guidance and support during the development of this project.
+- Special thanks to [Team Lead] for their guidance and support during the development of this project.
 
 <!-- Contact -->
 ## Contact
 For any inquiries or feedback, please contact:
-- Your Name: your-email@example.com
+- Your Name: your-abbassadri786@gmail.com
 - Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
