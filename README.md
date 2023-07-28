@@ -62,5 +62,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 <!-- Contact -->
 ## Contact
 For any inquiries or feedback, please contact:
-- Your Name: abbassadri786@gmail.com
+- Gmail Id: abbassadri786@gmail.com
 - Project Link: [https://abbassadri786.github.io/The-Time-Tracker/]
