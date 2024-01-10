@@ -13,8 +13,8 @@
 
 <!-- Project Screenshots -->
 <p align="center">
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="300" />
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300" />
+  <img src="Screenshot/screenshot1.png" alt="Screenshot 1" width="300" />
+  <img src="Screenshot/screenshot2.png" alt="Screenshot 2" width="300" />
 </p>
 
 <!-- Features -->
