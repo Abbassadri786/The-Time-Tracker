@@ -8,13 +8,13 @@
 
 <!-- Project Demo -->
 <p align="center">
-  <a href="https://abbassadri786.github.io/The-Time-Tracker/">View Demo</a>
+  <a href="https://abbassadri786.github.io/The-Time-Tracker/">Live Project Link</a>
 </p>
 
 <!-- Project Screenshots -->
 <p align="center">
-  <img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="300" />
-  <img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="300" />
+  <img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="400" />
+  <img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="400" />
 </p>
 
 <!-- Features -->
