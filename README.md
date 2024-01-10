@@ -8,7 +8,7 @@
 
 <!-- Project Demo -->
 <p align="center">
-  <a href="https://your-time-tracker-demo.com">View Demo</a>
+  <a href="https://abbassadri786.github.io/The-Time-Tracker/">View Demo</a>
 </p>
 
 <!-- Project Screenshots -->
